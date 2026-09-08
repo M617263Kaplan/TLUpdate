@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "build": 141,
-  "url": "https://github.com/M617263Kaplan/TLUpdate/releases/download/v1.1.1/InfluxTrafficLab-1.1.1-universal.sealed",
-  "sha256": "094b915d693cbb0851aa9b92ec0bf0767f6d5fb0e3054f5820b517bd6eafba2e",
+  "version": "1.1.2",
+  "build": 142,
+  "url": "https://github.com/M617263Kaplan/TLUpdate/releases/download/v1.1.2/InfluxTrafficLab-1.1.2-universal.sealed",
+  "sha256": "78a919937d92aa5f99597c59fb717e27df097953f4cc745ad3e99f2f14e8a7c5",
   "sealed": true
 }
